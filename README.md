@@ -12,6 +12,10 @@ Tenho mais de cinco anos de experiência no desenvolvimento de aplicativos e sit
 - **Frameworks e plataformas de desenvolvimento:** Angular, .NET e Bootstrap.
 - **Outras áreas:** bancos de dados, gerenciamento de mídias sociais, criação de conteúdo, design com Photoshop e gerenciamento de contas do Google Ads.
 
+## Implantação de sistemas
+
+Além do desenvolvimento web e mobile, tenho experiência na implantação de sistemas de gestão, incluindo **PDV Legal** e **soluções TOTVS**. Também realizo apresentações e demonstrações de sistemas para negócios.
+
 ## Projetos em destaque
 
 ### Food Web
