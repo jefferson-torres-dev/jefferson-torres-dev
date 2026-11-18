@@ -4,7 +4,7 @@
 
 Tenho mais de cinco anos de experiência no desenvolvimento de aplicativos e sites. Crio soluções digitais voltadas às necessidades de cada negócio, unindo criatividade e implementação técnica.
 
-[Portfólio](https://www.castelartec.com.br) · [LinkedIn](https://www.linkedin.com/in/jefferson-torres-dev/) · [E-mail](mailto:jeffersontorres1992@hotmail.com)
+[LinkedIn](https://www.linkedin.com/in/jefferson-torres-dev/) · [E-mail](mailto:jeffersontorres1992@hotmail.com)
 
 ## Tecnologias e experiência
 
@@ -46,4 +46,3 @@ Entre em contato para conversar sobre seu projeto:
 
 - **E-mail:** [jeffersontorres1992@hotmail.com](mailto:jeffersontorres1992@hotmail.com)
 - **LinkedIn:** [Jefferson Torres](https://www.linkedin.com/in/jefferson-torres-dev/)
-- **Portfólio:** [www.castelartec.com.br](https://www.castelartec.com.br)
