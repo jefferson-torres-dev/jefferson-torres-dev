@@ -1,8 +1,16 @@
 # Jefferson Torres
 
-Desenvolvedor web com projetos voltados à presença digital e às operações de negócios.
+**Desenvolvedor de sistemas · Web e mobile**
 
-Trabalho com interfaces em **HTML, CSS e JavaScript**, backend em **Node.js**, dados em **PostgreSQL** e integrações com **Supabase, Neon e Vercel**.
+Tenho mais de cinco anos de experiência no desenvolvimento de aplicativos e sites. Crio soluções digitais voltadas às necessidades de cada negócio, unindo criatividade e implementação técnica.
+
+[Portfólio](https://www.castelartec.com.br) · [LinkedIn](https://www.linkedin.com/in/jefferson-torres-dev/) · [E-mail](mailto:jeffersontorres1992@hotmail.com)
+
+## Tecnologias e experiência
+
+- **Linguagens:** Python, Kotlin, Java e JavaScript.
+- **Frameworks e plataformas de desenvolvimento:** Angular, .NET e Bootstrap.
+- **Outras áreas:** bancos de dados, gerenciamento de mídias sociais, criação de conteúdo, design com Photoshop e gerenciamento de contas do Google Ads.
 
 ## Projetos em destaque
 
@@ -10,7 +18,7 @@ Trabalho com interfaces em **HTML, CSS e JavaScript**, backend em **Node.js**, d
 
 Sistema web para operações de alimentação, reunindo ponto de venda, cardápio digital, comandas, estoque e gestão.
 
-**Stack:** JavaScript · Node.js · Express · PostgreSQL · Vercel
+**Stack:** JavaScript · Node.js · Express · PostgreSQL
 
 [Acessar o site](https://foodweb.site) · [Conhecer o projeto](projetos/foodweb.md)
 
@@ -18,20 +26,20 @@ Sistema web para operações de alimentação, reunindo ponto de venda, cardápi
 
 Catálogo digital com página de links e administração de produtos e imagens.
 
-**Stack:** HTML · CSS · JavaScript · Supabase · Vercel
+**Stack:** HTML · CSS · JavaScript · Vercel
 
 [Acessar o site](https://floriculturacafecomflor.site) · [Conhecer o projeto](projetos/cafe-com-flor.md)
 
-## Como organizo meus projetos
+## Meu foco
 
-- Interfaces orientadas às tarefas do negócio.
-- Integração entre frontend, APIs e banco de dados.
-- Código versionado com Git e GitHub.
-- Publicação com Vercel e documentação de manutenção.
+Desenvolver sistemas, aplicativos e sites que resolvam problemas reais e ajudem empresas a melhorar seus processos e sua presença digital.
 
-Os códigos dos projetos comerciais são privados. Os links acima apresentam os produtos e os estudos de caso, sem expor credenciais ou dados internos.
+Os códigos dos projetos comerciais são privados. Os estudos de caso apresentam as soluções sem expor dados internos.
 
-## Contato
+## Vamos conversar
 
-[Vamos conversar pelo LinkedIn](https://www.linkedin.com/in/jefferson-torres-dev/)
+Entre em contato para conversar sobre seu projeto:
 
+- **E-mail:** [jeffersontorres1992@hotmail.com](mailto:jeffersontorres1992@hotmail.com)
+- **LinkedIn:** [Jefferson Torres](https://www.linkedin.com/in/jefferson-torres-dev/)
+- **Portfólio:** [www.castelartec.com.br](https://www.castelartec.com.br)
