@@ -26,7 +26,7 @@ Sistema web para operações de alimentação, reunindo ponto de venda, cardápi
 
 Catálogo digital com página de links e administração de produtos e imagens.
 
-**Stack:** HTML · CSS · JavaScript · Vercel
+**Stack:** HTML · CSS · JavaScript
 
 [Acessar o site](https://floriculturacafecomflor.site) · [Conhecer o projeto](projetos/cafe-com-flor.md)
 
